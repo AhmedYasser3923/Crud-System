@@ -1,0 +1,97 @@
+body{
+    background-color: rgba(14, 1, 26, 0.968);
+    color: aqua;
+}
+h1{
+    text-align: center;
+}
+
+.form0{
+
+width: 70%;
+padding: 100px ;
+margin: auto;
+border: 5px solid fuchsia;
+border-radius: 10%;
+
+
+}
+.form-ctrl{
+width: 100%;
+background-color: beige;
+color: black;
+padding: 15px;
+margin: 8px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+
+}
+
+.error{
+    color: red;
+    margin-left: 5px;
+}
+
+.hide{
+    display:none;
+}
+.b0{
+background-color: lime;
+color: black;
+padding: 1%;
+width: 100px;
+height: 50px;
+border-radius: 10%;
+float: right;
+margin-top: 10px;
+}
+.b1{
+    background-color: yellow;
+}
+.b2{
+    background-color: red;
+}
+
+
+.t0{
+border: 3px solid fuchsia ;
+width: 80%;
+padding: auto;
+margin: auto;
+border-collapse: collapse;
+}
+.t0 td, th {
+border: 1px solid white;
+text-align: center;
+padding: 8px;
+
+
+}
+.t0 tr:nth-child(even),table.table0 thead > tr {
+background-color: #dddddd;
+color: #0c0b40;
+
+
+}
+a{
+   cursor: pointer;
+   margin-right: 5px;
+
+}
+
+.fa-trash{
+    color: red;
+  
+}
+.b6{
+background-color: black;
+}
+
+.fa-pen-to-square{
+    color: yellow;
+}
+
+.b7{
+    background-color: black;
+}
